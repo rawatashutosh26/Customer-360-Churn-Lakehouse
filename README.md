@@ -40,7 +40,6 @@ Built on **Azure Databricks**, this solution processes raw ERP transaction logs,
 
 
 ## 📊 Dashboard Preview
-*The Power BI dashboard highlights 150+ customers identified as 'High Value' but 'At Risk' of churning.*
 <img width="1298" height="725" alt="Screenshot 2025-12-13 025123" src="https://github.com/user-attachments/assets/b35008b0-7c72-4816-8949-2889926cb1ec" />
 
 <img width="1301" height="673" alt="Screenshot 2025-12-13 024155" src="https://github.com/user-attachments/assets/7835f863-1ad5-4709-af38-b814fa694282" />
